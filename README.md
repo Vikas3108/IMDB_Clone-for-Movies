@@ -12,4 +12,7 @@ iii. Result section: result section contains all details of the movie which has 
 iV. My Favorite section: result section contains all details of the movie which has been added to the favorites list by the user.
 
 ![image alt](https://github.com/Vikas3108/IMDB_Clone-for-Movies/blob/main/Screenshots/image1.png?raw=true)
+![image alt](https://github.com/Vikas3108/IMDB_Clone-for-Movies/blob/main/Screenshots/image2.png?raw=true)
+![image alt](https://github.com/Vikas3108/IMDB_Clone-for-Movies/blob/main/Screenshots/image3.png?raw=true)
+![image alt](https://github.com/Vikas3108/IMDB_Clone-for-Movies/blob/main/Screenshots/image4.png?raw=true)
 
