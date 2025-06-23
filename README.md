@@ -11,5 +11,5 @@ ii. Search section: this section is created for searching the movies by their na
 iii. Result section: result section contains all details of the movie which has been search by the user.
 iV. My Favorite section: result section contains all details of the movie which has been added to the favorites list by the user.
 
-
+![image alt](https://github.com/Vikas3108/IMDB_Clone-for-Movies/blob/main/Screenshot%202025-06-23%20154126.png?raw=true)
 
