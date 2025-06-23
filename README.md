@@ -13,7 +13,3 @@ iV. My Favorite section: result section contains all details of the movie which 
 
 
 
-![Screenshot 2023-05-27 174604](https://github.com/KUSHAL-JAIN-au9/Imdb_Clone_CodingNinjas/assets/36365855/a8019fc6-c87a-44eb-a234-065cc7eef14d)
-
-![Screenshot 2023-05-27 174614](https://github.com/KUSHAL-JAIN-au9/Imdb_Clone_CodingNinjas/assets/36365855/78d7fae1-4785-43e1-b60b-f97bff0785e1)
-![Screenshot 2023-05-27 174642](https://github.com/KUSHAL-JAIN-au9/Imdb_Clone_CodingNinjas/assets/36365855/c0d62e68-f72c-4fd7-a9d8-9ad8b3915ea7)
